@@ -1,0 +1,115 @@
+
+💐 welcome once again to our channel Noob Hackers
+
+all important packages of termux follow commands
+------------------------------------------------
+1. apt-get upgrade 
+
+2. pkg install python
+
+3. pkg install python2 
+
+4. pkg install nano
+
+5. pkg install wget
+
+6. pkg install hydra
+ 
+7. pkg install git
+
+8. pkg install netcat
+
+9. pkg install curl
+
+10. pkg install perl
+
+11. apt install php
+
+12. pkg install ruby
+
+13. pkg install tor
+
+14. pkg install nmap
+
+15. pkg install figlet
+
+16. pkg install w3m
+
+17. pkg install proot(or) apt install proot
+
+18. pkg install moonbuggy
+
+19. pkg install clang
+
+20. pkg install openssh 
+
+after this apk runs now & then now u can run any thing ok 
+
+:N:::::::basic tools:::::H::::
+apt update -update terminal package
+apt install git : github install
+apt install vim :for file editor
+apt install zip :for zip
+apt install wget : download direct
+apt install unzip :for unzip
+apt install unrar :for unrar file
+apt list :for programs list 
+
+:::::::::: Programming languageszzzzzzzzzz:::::::
+
+apt install php :for run php flle
+apt install python : run (.py) python file
+apt install python2 : run .py flle
+apt install perl : for run (.pl) perl flle
+apt install ruby : for run ruby language file
+apt install vim-python :to edit python 
+After termux installed go to settings in permission enable stroage and force stop apk then termux runs storage setup
+.......
+
+to remove package (rm -rf folder_name)
+
+to stop current process volumedownn+c
+
+or controle+c 
+
+to enable hacker keyboard in termux keyboard long tap on left side of termux keyboard 
+
+hide ip location to anynomous
+
+some time vpn notwork so use properly 
+
+to remove packages brutally (chmod 750 package name ) next rm -rf package name    
+
+
+to delete session use (controle+d )
+
+or volume down + d
+
+
+-------------------------------------------------
+ 
+alt + b for move cursor
+
+
+alt + b ( unfortunately ) 
+
+
+python.py in this case u hv to typ twice alt+b
+
+ctrl + e end point
+
+ctrl + a for starting point
+
+rm .bashrc( bootscreen.sh)
+
+rm -v (bootscreenNakeeb.sh) to remove any bash file just use it..
+
+----------- subscribe us Noob Hackers -----------
+
+channel link :- "Noob Hackers"
+https://www.facebook.com/groups/1936478173310085/
+facebook group :- https://www.facebook.com/groups/1936478173310085/
+
+stay legal 
+
+---😊-----😊------💐------😊----------☺️
